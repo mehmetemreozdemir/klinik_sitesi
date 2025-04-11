@@ -1,0 +1,1 @@
+# Django paket başlatma dosyası
